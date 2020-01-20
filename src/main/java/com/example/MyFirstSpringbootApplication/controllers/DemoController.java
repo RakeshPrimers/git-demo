@@ -11,6 +11,7 @@ public class DemoController {
 	public String HelloMessage()
 	{
 		System.out.println("hello My dear Git");
+		System.out.println("hello My dear Git");
 		return "hello mama Git";
 	}
 }
